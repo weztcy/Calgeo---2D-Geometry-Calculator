@@ -20,10 +20,7 @@
   "accentColor": "amber",
   "repoUrl": "https://github.com/weztcy/Calgeo---2D-Geometry-Calculator",
   "license": "MIT License",
-  "imageUrl": "/images/projects/calgeo_2d_geometry_calculator/banner.webp",
-  "images": [
-    "/images/projects/calgeo_2d_geometry_calculator/banner.webp"
-  ],
+  "banner": "/images/projects/calgeo_2d_geometry_calculator/banner.webp",
   "summary": "An offline Android geometry utility for computing accurate area and perimeter metrics across eight standard 2D shapes with real-time validation.",
   "projectDescription": "Calgeo is a native Android calculation app designed to simplify 2D geometric evaluations. Built with Java and Material Design, it delivers instant mathematical precision, dynamic input generation, and strict geometric boundary validation without requiring any network connectivity or permissions.",
   "architectureSummary": "Modular client architecture decoupling Android Jetpack UI, dynamic input bindings, geometric business logic, and validation rules.",
